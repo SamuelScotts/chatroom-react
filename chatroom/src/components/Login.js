@@ -8,7 +8,6 @@ function Login(){
     const [password, setPassword] = useState('')
 
     async function loginButton (){
-    
         firebase.auth().signInWithEmailAndPassword(email, password)
 
     }
