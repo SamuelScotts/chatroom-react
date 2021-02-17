@@ -7,3 +7,7 @@ To start the app:
 cd chatroom
 npm start
 ```
+
+## Firebase:
+
+//TODO: Add details about the structure.
